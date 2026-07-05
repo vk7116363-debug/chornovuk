@@ -1,0 +1,7 @@
+# Дозволити Facebook підтверджувати домен
+User-agent: FacebookExternalHit
+Allow: /
+
+# Дозволити індексацію всім ботам
+User-agent: *
+Allow: /
